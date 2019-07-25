@@ -1,5 +1,5 @@
 def speak_to_grandma(phrase)
-  return "HUH"
+  return "HUH?! SPEAK UP, SONNY!" if phrase != phrase
 end
 
 # Write a speak_to_grandma method.
