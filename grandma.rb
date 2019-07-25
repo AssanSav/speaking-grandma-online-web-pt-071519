@@ -1,5 +1,5 @@
 def speak_to_grandma(phrase)
-
+  return "HUH"
 end
 
 # Write a speak_to_grandma method.
